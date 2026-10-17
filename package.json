@@ -1,0 +1,9 @@
+{
+  "name": "wt360-local",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static WorkTrac360 demo with generated data and no login, API, or database",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
